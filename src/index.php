@@ -7,11 +7,9 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Minha Página</title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        <h1>Bem Vindo a minha página hur</h1>
     </body>
 </html>
