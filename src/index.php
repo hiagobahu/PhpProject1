@@ -11,5 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Bem Vindo a minha página hur</h1>
+        
+        <?php include APP_PATH . 'src/header.php'; ?>
     </body>
 </html>
